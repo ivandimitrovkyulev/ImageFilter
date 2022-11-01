@@ -1,2 +1,2 @@
-# CS50-Pset4---Filter
+ImageFilter
 This program applies a filter like blur, grayscale, edges to a selected image.
